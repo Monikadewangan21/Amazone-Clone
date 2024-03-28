@@ -1,0 +1,32 @@
+body{
+    background-image: url("road\ car\ \(1\).jpg");
+    background-size:cover;
+}
+
+h1{
+    
+    text-shadow: 4px 5px #fff457;
+    text-align: center;
+    font-size: 5rem;
+}
+.first_page{
+    background-color: hsl(60, 5%, 7%);
+    border: 2px dotted yellow;
+    height: 150px;
+    width: 500px;
+    margin-left: 470px;
+
+}
+.login{
+    font-size: 1.5rem;
+    margin-left: 150px;
+    margin-top: 20px;
+    background-color: #fff457;
+    width: 200px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
